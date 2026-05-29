@@ -1,2 +1,11 @@
-# ignore all .txt files
-*.txt
+# Notebooks accidentally committed
+*.ipynb
+.ipynb_checkpoints/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
