@@ -7,7 +7,7 @@ A simple static website for the Kevin Cookie Company, handcrafted with plain HTM
 | File | Description |
 |---|---|
 | `index.htm` | Landing page — company story and values |
-| `secret recipe.htm` | Flagship chocolate-chip cookie recipe |
+| `secret-recipe.htm` | Flagship chocolate-chip cookie recipe |
 
 ## Assets
 
